@@ -1,0 +1,1 @@
+opasted.o: opasted.s

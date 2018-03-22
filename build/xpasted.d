@@ -1,0 +1,1 @@
+xpasted.o: xpasted.s
